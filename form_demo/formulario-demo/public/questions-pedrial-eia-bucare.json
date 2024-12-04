@@ -1,0 +1,421 @@
+{
+    "DATOS GENERALES": {
+        "Pregunta 1": "Fecha_date",
+        "Pregunta 2": "Ficha No.",
+        "Pregunta 3": "Proyecto",
+        "Pregunta 4": "Municipio",
+        "Pregunta 5": "Departamento",
+        "Pregunta 6": "VEREDA",
+        "Pregunta 7": "CUENCA",
+        "Pregunta 8": "NOMBRE DEL PREDIO",
+        "Pregunta_TENENCIA": {
+            "Pregunta 9": "PROPIA_radiobutton",
+            "Pregunta 10": "ARRIENDO_radiobutton",
+            "Pregunta 11": "TRABAJO_radiobutton",
+            "Pregunta 12": "FAMILIAR_radiobutton"
+        },
+        "Pregunta 13": "NOMBRE DEL PROPIETARIO",
+        "Pregunta 14": "TELÉFONO",
+        "Pregunta_¿VIVE EN EL PREDIO?": {
+            "Pregunta 15": "SI_radiobutton",
+            "Pregunta 16": "NO_radiobutton"
+        },
+        "Pregunta_ESCRITURADA": {
+            "Pregunta 17": "SI_radiobutton",
+            "Pregunta 18": "NO_radiobutton",
+            "Pregunta 19": "NO SABE_radiobutton"
+        },
+        "Pregunta 20": "No. REGISTRO DE LA ESCRITURA (Si la tiene ingresela si no, coloque *NO SABE*)",
+        "Pregunta 21": "NOMBRE DEL ENCARGADO O ADMINISTRADOR",
+        "Pregunta 22": "TELÉFONO"
+    },
+    "INFORMACIÓN ESPECIFICA": {
+        "PREDIOS COLINDANTES (Basarse en el mapa y tener en cuenta fincas, vías, ríos o quebradas)": {
+            "Pregunta 23": "NORTE",
+            "Pregunta 24": "SUR",
+            "Pregunta 25": "ESTE",
+            "Pregunta 26": "OESTE" 
+        },
+        "COORDENADAS VIVIENDA Coordenadas en origen nacional": {
+            "Pregunta 27": "ESTE",
+            "Pregunta 28": "NORTE"
+        },
+        "COORDENADAS POZOS CAPTACIÓN Coordenadas en origen nacional": {
+            "Pregunta 29": "ESTE",
+            "Pregunta 30": "NORTE"
+        },
+        "VÍA MUNICIPAL PAVIMENTADA": {
+            "Pregunta 31": "SI_radiobutton",
+            "Pregunta 32": "NO_radiobutton",
+            "Pregunta_ESTADO:" : {
+                "Pregunta 33": "BUENO_radiobutton",
+                "Pregunta 34": "REGULAR_radiobutton",
+                "Pregunta 35": "MALO_radiobutton"
+            },
+            "Pregunta 36": "Km"
+        },
+        "TROCHA:" : {
+            "Pregunta 37": "SI_radiobutton",
+            "Pregunta 38": "NO_radiobutton",
+            "Pregunta_ESTADO:" : {
+                "Pregunta 39": "BUENO_radiobutton",
+                "Pregunta 40": "REGULAR_radiobutton",
+                "Pregunta 41": "MALO_radiobutton"
+            },
+            "Pregunta 42": "Km"
+        },
+        "CAMINO DE HERRADURA:" : {
+            "Pregunta 43": "SI_radiobutton",
+            "Pregunta 44": "NO_radiobutton",
+            "Pregunta_ESTADO:" : {
+                "Pregunta 45": "BUENO_radiobutton",
+                "Pregunta 46": "REGULAR_radiobutton",
+                "Pregunta 47": "MALO_radiobutton"
+            },
+            "Pregunta 48": "Km"
+        },
+        "VIA FLUVIAL:" : {
+            "Pregunta 49": "SI_radiobutton",
+            "Pregunta 50": "NO_radiobutton",
+            "Pregunta_ESTADO:" : {
+                "Pregunta 51": "BUENO_radiobutton",
+                "Pregunta 52": "REGULAR_radiobutton",
+                "Pregunta 53": "MALO_radiobutton"
+            },
+            "Pregunta 54": "Km"
+        },
+        "Pregunta 55": "¿UTILIZABLE TODO EL TIEMPO?",
+        "Pregunta 56": "¿CUÁL ES LA CABECERA MÁS CERCANA?",
+        "Pregunta 57": "¿DISTANCIA EN KM A LA CABECERA MÁS CERCANA?",
+        "Pregunta_ENERGÍA:" : {
+            "Pregunta 58": "SI_radiobutton",
+            "Pregunta 59": "NO_radiobutton"
+        }
+    },
+    "SERVICIOS PÚBLICOS": {
+        "¿EL PREDIO TIENE CONTADOR DE ENERGÍA?" : {
+            "Pregunta 60": "SI_radiobutton",
+            "Pregunta 61": "NO_radiobutton",
+            "Pregunta 62": "OTRO ¿CUÁL?"
+        },
+        "COCINA" : {
+            "Pregunta 63": "GAS_radiobutton",
+            "Pregunta 64": "LEÑA_radiobutton",
+            "Pregunta 65": "VELAS_radiobutton",
+            "Pregunta 66": "GASOLINA_radiobutton",
+            "Pregunta 67": "OTRO ¿CUÁL?"
+        },
+        "Pregunta_ACUEDUCTO" : {
+            "Pregunta 68": "SI_radiobutton",
+            "Pregunta 69": "NO_radiobutton"
+        },
+        "SUMINISTRO DE AGUA" : {
+            "Pregunta_Pregunta_Pozo y/o Aljibe": {
+                "Pregunta 70": "SI_radiobutton",
+                "Pregunta 71": "NO_radiobutton"
+            },
+            "Pregunta_y/o Quebrada": {
+                "Pregunta 72": "SI_radiobutton",
+                "Pregunta 73": "NO_radiobutton"
+            },
+            "Pregunta_Recolección agua lluvia": {
+                "Pregunta 74": "SI_radiobutton",
+                "Pregunta 75": "NO_radiobutton"
+            },
+            "Pregunta_Conexión domiciliaria": {
+                "Pregunta 76": "SI_radiobutton",
+                "Pregunta 77": "NO_radiobutton"
+            }
+        },
+        "Pregunta_ALCANTARILLADO": {
+            "Pregunta 78": "SI_radiobutton",
+            "Pregunta 79": "NO_radiobutton"
+        },
+        "SUMINISTRO DE AGUA ALCANTARILLADO": {
+            "Pregunta_Inodoro / Tasa": {
+                "Pregunta 80": "SI_radiobutton",
+                "Pregunta 81": "NO_radiobutton"
+            },
+            "Pregunta_Letrina": {
+                "Pregunta 82": "SI_radiobutton",
+                "Pregunta 83": "NO_radiobutton"
+            },
+            "Pregunta_Pozo séptico": {
+                "Pregunta 84": "SI_radiobutton",
+                "Pregunta 85": "NO_radiobutton"
+            },
+            "Pregunta_Campo abierto": {
+                "Pregunta 86": "SI_radiobutton",
+                "Pregunta 87": "NO_radiobutton"
+            }
+        },
+        "MANEJO DE BASURAS": {
+            "Pregunta_Recolección": {
+                "Pregunta 88": "SI_radiobutton",
+                "Pregunta 89": "NO_radiobutton"
+            },
+            "Pregunta_Arroja basuras": {
+                "Pregunta 90": "SI_radiobutton",
+                "Pregunta 91": "NO_radiobutton"
+            },
+            "Pregunta_Quema": {
+                "Pregunta 92": "SI_radiobutton",
+                "Pregunta 93": "NO_radiobutton"
+            },
+            "Pregunta_A cuerpos de agua": {
+                "Pregunta 94": "SI_radiobutton",
+                "Pregunta 95": "NO_radiobutton"
+            },
+            "Pregunta_Entierro de basuras": {
+                "Pregunta 96": "SI_radiobutton",
+                "Pregunta 97": "NO_radiobutton"
+            },
+            "Pregunta 98": "Otra ¿Cuál?"
+        },
+        "TELECOMUNICACIONES": {
+            "Pregunta_Redes telefónicas": {
+                "Pregunta 99": "SI_radiobutton",
+                "Pregunta 100": "NO_radiobutton"
+            },
+            "Pregunta_Cabina telefónica": {
+                "Pregunta 101": "SI_radiobutton",
+                "Pregunta 102": "NO_radiobutton"
+            },
+            "Pregunta_Internet": {
+                "Pregunta 103": "SI_radiobutton",
+                "Pregunta 104": "NO_radiobutton"
+            },
+            "Pregunta 105": "Otra ¿Cuál?"
+        },
+        "Pregunta 106": "OBSERVACIONES SOBRE LOS SERVICIOS PUBLICOS"
+    },
+    "BIENES Y SERVICIOS AMBIENTALES": {
+        "Pregunta_Utilización de fuentes hídricas para consumo humano": {
+            "Pregunta 107": "SI_radiobutton",
+            "Pregunta 108": "NO_radiobutton"
+        },
+        "Pregunta_Utilización de fuentes hídricas para consumo de animales": {
+            "Pregunta 109": "SI_radiobutton",
+            "Pregunta 110": "NO_radiobutton"
+        },
+        "Pregunta_Utilización de fuentes hídricas para aprovechamiento energético": {
+            "Pregunta 111": "SI_radiobutton",
+            "Pregunta 112": "NO_radiobutton"
+        },
+        "Pregunta_Utilización de leña para preparación de alimentos y otros": {
+            "Pregunta 113": "SI_radiobutton",
+            "Pregunta 114": "NO_radiobutton"
+        },
+        "Pregunta_Utilización de praderas y pastos para alimentación de animales": {
+            "Pregunta 115": "SI_radiobutton",
+            "Pregunta 116": "NO_radiobutton"
+        },
+        "Pregunta_Caza de animales silvestres para consumo": {
+            "Pregunta 117": "SI_radiobutton",
+            "Pregunta 118": "NO_radiobutton"
+        },
+        "Pregunta_Consumo de frutas o especies comestibles silvestres": {
+            "Pregunta 119": "SI_radiobutton",
+            "Pregunta 120": "NO_radiobutton"
+        },
+        "Pregunta 121": "Otra ¿Cuáles?"
+    },
+    "SERVICIOS SOCIALES": {
+        "SALUD": {
+            "Pregunta_¿A qué régimen de salud están afiliados los dueños del predio?": {
+                "Pregunta 122": "SUBSIDIADO_radiobutton",
+                "Pregunta 123": "CONTRIBUTIVO_radiobutton"
+            },
+            "Pregunta_¿A qué régimen de salud están afiliados los habitantes del predio?": {
+                "Pregunta 124": "SUBSIDIADO_radiobutton",
+                "Pregunta 125": "CONTRIBUTIVO_radiobutton"
+            },
+            
+            "Pregunta_Empresa o entidad prestadora del servicio": {
+                "Pregunta 126": "PROPIETARIO",
+                "Pregunta 127": "HABITANTES"
+            },
+            "Pregunta 128": "HOSPITAL O CENTRO DE SALUD MAS CERCANO",
+            "Pregunta 129": "LOCALIZADO EN"
+        },
+        "VIVIENDA": {
+            "MATERIALES DE CONSTRUCCIÓN": {
+                "Pregunta 130": "PAREDES",
+                "Pregunta 131": "TECHOS",
+                "Pregunta 132": "PISOS"
+            },
+            "DISTRIBUCIÓN": {
+                "Pregunta 133": "HABITACIONES",
+                "Pregunta 134": "SALAS",
+                "Pregunta 135": "COMEDOR",
+                "Pregunta 136": "COCINA"
+            },
+            "Pregunta 137": "Área destinada a la vivienda (m2)",
+            "Pregunta 138": "ESTADO",
+            "Pregunta 139": "Observaciones sobre servicios sociales (existencia y facilidad o dificultad de acceso a los servicios)"
+        }
+    },
+    "ACTIVIDAD ECONÓMICA": {
+        "DISTRIBUCIÓN DE LA TIERRA": {
+            "Pregunta 140": "PROPIETARIOS_radiobutton",
+            "Pregunta 141": "ARRENDATARIOS_radiobutton",
+            "Pregunta 142": "POSEEDORES_radiobutton",
+            "Pregunta 143": "APERCEROS_radiobutton",
+            "Pregunta 144": "ADMINISTRADORES_radiobutton",
+            "Pregunta 145": "OTROS"
+        },
+        "Pregunta 146": "Distancia a fuente hídrica de abastecimiento (metros)",
+        "Pregunta 147": "Localizada en",
+        "ACTIVIDADES ECONOMICAS PRINCIPALES": {
+            "Pregunta 148": "ACTIVIDAD 1",
+            "Pregunta 149": "ACTIVIDAD 2",
+            "Pregunta 150": "ACTIVIDAD 3"
+        },
+        "PRINCIPALES PRODUCTOS AGRICOLAS": {
+            "PRODUCTO 1": {
+                "Pregunta 151": "Producto cultivado",
+                "Pregunta 152": "Extensión cultivada (Total ha)",
+                "Pregunta 153": "Volumen de producción total",
+                "Pregunta 154": "Precio unitario del mercado"
+            },
+            "PRODUCTO 2": {
+                "Pregunta 155": "Producto cultivado",
+                "Pregunta 156": "Extensión cultivada (Total ha)",
+                "Pregunta 157": "Volumen de producción total",
+                "Pregunta 158": "Precio unitario del mercado"
+            },
+            "PRODUCTO 3": {
+                "Pregunta 159": "Producto cultivado",
+                "Pregunta 160": "Extensión cultivada (Total ha)",
+                "Pregunta 161": "Volumen de producción total",
+                "Pregunta 162": "Precio unitario del mercado"
+            },
+            "PRODUCTO 4": {
+                "Pregunta 163": "Producto cultivado",
+                "Pregunta 164": "Extensión cultivada (Total ha)",
+                "Pregunta 165": "Volumen de producción total",
+                "Pregunta 166": "Precio unitario del mercado"
+            },
+            "GANADERIA": {
+                "Pregunta 167": "No. Cabezas",
+                "Pregunta 168": "Tipo (leche, ceba, levante, engorde, ponedoras, etc)",
+                "Pregunta 169": "Volumen de Producción"
+            },
+            "OVINOS": {
+                "Pregunta 170": "No. Cabezas",
+                "Pregunta 171": "Tipo (leche, ceba, levante, engorde, ponedoras, etc)",
+                "Pregunta 172": "Volumen de Producción"
+            },
+            "PORCINOS": {
+                "Pregunta 173": "No. Cabezas",
+                "Pregunta 174": "Tipo (leche, ceba, levante, engorde, ponedoras, etc)",
+                "Pregunta 175": "Volumen de Producción"
+            },
+            "AVES DE CORRAL": {
+                "Pregunta 176": "No. Cabezas",
+                "Pregunta 177": "Tipo (leche, ceba, levante, engorde, ponedoras, etc)",
+                "Pregunta 178": "Volumen de Producción"
+            },
+            "¿OTRO CÚAL?": {
+                "Pregunta 179": "No. Cabezas",
+                "Pregunta 180": "Tipo (leche, ceba, levante, engorde, ponedoras, etc)",
+                "Pregunta 181": "Volumen de Producción"
+            }
+        }
+    },
+    "CARACTERISTICAS DE LA POBLACIÓN": {
+        "PERSONA 1": {
+            "Pregunta 182": "NOMBRE",
+            "Pregunta 183": "EDAD",
+            "Pregunta_GENERO": {
+                "Pregunta 184": "F_radiobutton",
+                "Pregunta 185": "M_radiobutton"
+            },
+            "Pregunta 186": "ESCOLARIDAD",
+            "Pregunta 187": "RELACIÓN CON EL ENCARGADO",
+            "Pregunta 188": "ACTIVIDAD"
+        },
+        "PERSONA 2": {
+            "Pregunta 189": "NOMBRE",
+            "Pregunta 190": "EDAD",
+            "Pregunta_GENERO": {
+                "Pregunta 191": "F_radiobutton",
+                "Pregunta 192": "M_radiobutton"
+            },
+            "Pregunta 193": "ESCOLARIDAD",
+            "Pregunta 194": "RELACIÓN CON EL ENCARGADO",
+            "Pregunta 195": "ACTIVIDAD"
+        },
+        "PERSONA 3": {
+            "Pregunta 196": "NOMBRE",
+            "Pregunta 197": "EDAD",
+            "Pregunta_GENERO": {
+                "Pregunta 198": "F_radiobutton",
+                "Pregunta 199": "M_radiobutton"
+            },
+            "Pregunta 200": "ESCOLARIDAD",
+            "Pregunta 201": "RELACIÓN CON EL ENCARGADO",
+            "Pregunta 202": "ACTIVIDAD"
+        },
+        "PERSONA 4": {
+            "Pregunta 203": "NOMBRE",
+            "Pregunta 204": "EDAD",
+            "Pregunta_GENERO": {
+                "Pregunta 205": "F_radiobutton",
+                "Pregunta 206": "M_radiobutton"
+            },
+            "Pregunta 207": "ESCOLARIDAD",
+            "Pregunta 208": "RELACIÓN CON EL ENCARGADO",
+            "Pregunta 209": "ACTIVIDAD"
+        },
+        "PERSONA 5": {
+            "Pregunta 210": "NOMBRE",
+            "Pregunta 211": "EDAD",
+            "Pregunta_GENERO": {
+                "Pregunta 212": "F_radiobutton",
+                "Pregunta 213": "M_radiobutton"
+            },
+            "Pregunta 214": "ESCOLARIDAD",
+            "Pregunta 215": "RELACIÓN CON EL ENCARGADO",
+            "Pregunta 216": "ACTIVIDAD"
+        },
+        "PARTICIPACIÓN COMUNITARIA (ámbitos de participación comunitaria interactuan los habitantes y/o dueños del predio)": {
+            "Pregunta_Juntas de padres de familia": {
+                "Pregunta 217": "SI_radiobutton",
+                "Pregunta 218": "NO_radiobutton"
+            },
+            "Pregunta_Junta de Acción Comunal - JAC": {
+                "Pregunta 219": "SI_radiobutton",
+                "Pregunta 220": "NO_radiobutton"
+            },
+            "Pregunta_Asociación de desempleados": {
+                "Pregunta 221": "SI_radiobutton",
+                "Pregunta 222": "NO_radiobutton"
+            },
+            "Pregunta 223": "Otra, ¿Cuál?",
+            "Pregunta 224": "Presencia institucional"
+        }
+    },
+    "USOS DEL SUELO": {
+        "ÁREA PREDIO": {
+            "Pregunta 225": "Hectareas",
+            "Pregunta 226": "FANEGADAS"
+        },
+        "Pregunta 227": "Estrato Socioeconómico del predio",
+        "USOS DEL SUELO": {
+            "Pregunta 228": "Ganadería",
+            "Pregunta 229": "Pastizales",
+            "Pregunta 230": "Agricultura",
+            "Pregunta 231": "Pancoger",
+            "Pregunta 232": "Otros, ¿Cuáles?"
+        },
+        "Actividades Complementarias (otras actividades que contribuyen al mejoramiento de la economía de la familia)": {
+            "Pregunta 233": "Actividades Culturales (Festividades y  Costumbres)",
+            "Pregunta 234": "En caso de reasentamiento: Alternativas de Traslado",
+            "Pregunta 235": "Expectativas de la Familia frente al proyecto (Alternativas de Traslado)",
+            "Pregunta 236": "Observaciones"
+        }
+    },
+    "Pregunta 237": "Firma de quien responde la ficha_image",
+    "Pregunta 238": "CC"
+}

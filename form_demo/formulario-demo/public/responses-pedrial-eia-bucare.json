@@ -1,0 +1,425 @@
+{
+    "DATOS GENERALES": {
+        "Respuesta 1": "",
+        "Respuesta 2": "",
+        "Respuesta 3": "",
+        "Respuesta 4": "",
+        "Respuesta 5": "",
+        "Respuesta 6": "",
+        "Respuesta 7": "",
+        "Respuesta 8": "",
+        "Respuesta_TENENCIA": {
+            "Respuesta 9": "",
+            "Respuesta 10": "",
+            "Respuesta 11": "",
+            "Respuesta 12": ""
+        },
+        "Respuesta 13": "",
+        "Respuesta 14": "",
+        "Respuesta_¿VIVE EN EL PREDIO?": {
+            "Respuesta 15": "",
+            "Respuesta 16": ""
+        },
+        "Respuesta_ESCRITURADA": {
+            "Respuesta 17": "",
+            "Respuesta 18": "",
+            "Respuesta 19": ""
+        },
+        "Respuesta 20": "",
+        "Respuesta 21": "",
+        "Respuesta 22": ""
+    },
+    "INFORMACIÓN ESPECIFICA": {
+        "PREDIOS COLINDANTES (Basarse en el mapa y tener en cuenta fincas, vías, ríos o quebradas)": {
+            "Respuesta 23": "",
+            "Respuesta 24": "",
+            "Respuesta 25": "",
+            "Respuesta 26": ""
+        },
+        "COORDENADAS VIVIENDA Coordenadas en origen nacional": {
+            "Respuesta 27": "",
+            "Respuesta 28": ""
+        },
+        "COORDENADAS POZOS CAPTACIÓN Coordenadas en origen nacional": {
+            "Respuesta 29": "",
+            "Respuesta 30": ""
+        },
+        "VÍA MUNICIPAL PAVIMENTADA": {
+            "Respuesta 31": "",
+            "Respuesta 32": "",
+            "Respuesta_ESTADO:": {
+                "Respuesta 33": "",
+                "Respuesta 34": "",
+                "Respuesta 35": ""
+            },
+            "Respuesta 36": ""
+        },
+        "TROCHA:": {
+            "Respuesta 37": "",
+            "Respuesta 38": "",
+            "Respuesta_ESTADO:": {
+                "Respuesta 39": "",
+                "Respuesta 40": "",
+                "Respuesta 41": ""
+            },
+            "Respuesta 42": ""
+        },
+        "CAMINO DE HERRADURA:": {
+            "Respuesta 43": "",
+            "Respuesta 44": "",
+            "Respuesta_ESTADO:": {
+                "Respuesta 45": "",
+                "Respuesta 46": "",
+                "Respuesta 47": ""
+            },
+            "Respuesta 48": ""
+        },
+        "VIA FLUVIAL:": {
+            "Respuesta 49": "",
+            "Respuesta 50": "",
+            "Respuesta_ESTADO:": {
+                "Respuesta 51": "",
+                "Respuesta 52": "",
+                "Respuesta 53": ""
+            },
+            "Respuesta 54": ""
+        },
+        "Respuesta 55": "",
+        "Respuesta 56": "",
+        "Respuesta 57": "",
+        "Respuesta_ENERGÍA:": {
+            "Respuesta 58": "",
+            "Respuesta 59": ""
+        }
+    },
+    "SERVICIOS PÚBLICOS": {
+        "¿EL PREDIO TIENE CONTADOR DE ENERGÍA?": {
+            "Respuesta 60": "",
+            "Respuesta 61": "",
+            "Respuesta 62": ""
+        },
+        "COCINA": {
+            "Respuesta 63": "",
+            "Respuesta 64": "",
+            "Respuesta 65": "",
+            "Respuesta 66": "",
+            "Respuesta 67": ""
+        },
+        "Respuesta_ACUEDUCTO": {
+            "Respuesta 68": "",
+            "Respuesta 69": ""
+        },
+        "SUMINISTRO DE AGUA": {
+            "Respuesta_Pozo y/o Aljibe": {
+                "Respuesta 70": "",
+                "Respuesta 71": ""
+            },
+            "Respuesta_y/o Quebrada": {
+                "Respuesta 72": "",
+                "Respuesta 73": ""
+            },
+            "Respuesta_Recolección agua lluvia": {
+                "Respuesta 74": "",
+                "Respuesta 75": ""
+            },
+            "Respuesta_Conexión domiciliaria": {
+                "Respuesta 76": "",
+                "Respuesta 77": ""
+            }
+        },
+        "Respuesta_ALCANTARILLADO": {
+            "Respuesta 78": "",
+            "Respuesta 79": ""
+        },
+        "SUMINISTRO DE AGUA ALCANTARILLADO": {
+            "Respuesta_Inodoro / Tasa": {
+                "Respuesta 80": "",
+                "Respuesta 81": ""
+            },
+            "Respuesta_Letrina": {
+                "Respuesta 82": "",
+                "Respuesta 83": ""
+            },
+            "Respuesta_Pozo séptico": {
+                "Respuesta 84": "",
+                "Respuesta 85": ""
+            },
+            "Respuesta_Campo abierto": {
+                "Respuesta 86": "",
+                "Respuesta 87": ""
+            }
+        },
+        "MANEJO DE BASURAS": {
+            "Respuesta_Recolección": {
+                "Respuesta 88": "",
+                "Respuesta 89": ""
+            },
+            "Respuesta_Arroja basuras": {
+                "Respuesta 90": "",
+                "Respuesta 91": ""
+            },
+            "Respuesta_Quema": {
+                "Respuesta 92": "",
+                "Respuesta 93": ""
+            },
+            "Respuesta_A cuerpos de agua": {
+                "Respuesta 94": "",
+                "Respuesta 95": ""
+            },
+            "Respuesta_Entierro de basuras": {
+                "Respuesta 96": "",
+                "Respuesta 97": ""
+            },
+            "Respuesta 98": ""
+        },
+        "TELECOMUNICACIONES": {
+            "Respuesta_Redes telefónicas": {
+                "Respuesta 99": "",
+                "Respuesta 100": ""
+            },
+            "Respuesta_Cabina telefónica": {
+                "Respuesta 101": "",
+                "Respuesta 102": ""
+            },
+            "Respuesta_Internet": {
+                "Respuesta 103": "",
+                "Respuesta 104": ""
+            },
+            "Respuesta 105": ""
+        },
+        "Respuesta 106": ""
+    },
+    "BIENES Y SERVICIOS AMBIENTALES": {
+        "Respuesta_Utilización de fuentes hídricas para consumo humano": {
+            "Respuesta 107": "",
+            "Respuesta 108": ""
+        },
+        "Respuesta_Utilización de fuentes hídricas para consumo de animales": {
+            "Respuesta 109": "",
+            "Respuesta 110": ""
+        },
+        "Respuesta_Utilización de fuentes hídricas para aprovechamiento energético": {
+            "Respuesta 111": "",
+            "Respuesta 112": ""
+        },
+        "Respuesta_Utilización de leña para preparación de alimentos y otros": {
+            "Respuesta 113": "",
+            "Respuesta 114": ""
+        },
+        "Respuesta_Utilización de praderas y pastos para alimentación de animales": {
+            "Respuesta 115": "",
+            "Respuesta 116": ""
+        },
+        "Respuesta_Caza de animales silvestres para consumo": {
+            "Respuesta 117": "",
+            "Respuesta 118": ""
+        },
+        "Respuesta_Consumo de frutas o especies comestibles silvestres": {
+            "Respuesta 119": "",
+            "Respuesta 120": ""
+        },
+        "Respuesta 121": ""
+    },
+    "SERVICIOS SOCIALES": {
+        "SALUD": {
+            "Respuesta_¿A qué régimen de salud están afiliados los dueños del predio?": {
+                "Respuesta 122": "",
+                "Respuesta 123": ""
+            },
+            "Respuesta_¿A qué régimen de salud están afiliados los habitantes del predio?": {
+                "Respuesta 124": "",
+                "Respuesta 125": ""
+            },
+            "Respuesta_Empresa o entidad prestadora del servicio": {
+                "Respuesta 126": "",
+                "Respuesta 127": ""
+            },
+            "Respuesta 128": "",
+            "Respuesta 129": ""
+        },
+        "VIVIENDA": {
+            "MATERIALES DE CONSTRUCCIÓN": {
+                "Respuesta 130": "",
+                "Respuesta 131": "",
+                "Respuesta 132": ""
+            },
+            "DISTRIBUCIÓN": {
+                "Respuesta 133": "",
+                "Respuesta 134": "",
+                "Respuesta 135": "",
+                "Respuesta 136": ""
+            },
+            "Respuesta 137": "",
+            "Respuesta 138": "",
+            "Respuesta 139": ""
+        }
+    },
+    "ACTIVIDAD ECONÓMICA": {
+        "DISTRIBUCIÓN DE LA TIERRA": {
+            "Respuesta 140": "",
+            "Respuesta 141": "",
+            "Respuesta 142": "",
+            "Respuesta 143": "",
+            "Respuesta 144": "",
+            "Respuesta 145": ""
+        },
+        "Respuesta 146": "",
+        "Respuesta 147": "",
+        "ACTIVIDADES ECONOMICAS PRINCIPALES": {
+            "Respuesta 148": "",
+            "Respuesta 149": "",
+            "Respuesta 150": ""
+        },
+        "PRINCIPALES PRODUCTOS AGRICOLAS": {
+            "PRODUCTO 1": {
+                "Respuesta 151": "",
+                "Respuesta 152": "",
+                "Respuesta 153": "",
+                "Respuesta 154": ""
+            },
+            "PRODUCTO 2": {
+                "Respuesta 155": "",
+                "Respuesta 156": "",
+                "Respuesta 157": "",
+                "Respuesta 158": ""
+            },
+            "PRODUCTO 3": {
+                "Respuesta 159": "",
+                "Respuesta 160": "",
+                "Respuesta 161": "",
+                "Respuesta 162": ""
+            },
+            "PRODUCTO 4": {
+                "Respuesta 163": "",
+                "Respuesta 164": "",
+                "Respuesta 165": "",
+                "Respuesta 166": ""
+            },
+            "GANADERIA": {
+                "Respuesta 167": "",
+                "Respuesta 168": "",
+                "Respuesta 169": ""
+            },
+            "OVINOS": {
+                "Respuesta 170": "",
+                "Respuesta 171": "",
+                "Respuesta 172": ""
+            },
+            "PORCINOS": {
+                "Respuesta 173": "",
+                "Respuesta 174": "",
+                "Respuesta 175": ""
+            },
+            "AVES DE CORRAL": {
+                "Respuesta 176": "",
+                "Respuesta 177": "",
+                "Respuesta 178": ""
+            },
+            "¿OTRO CÚAL?": {
+                "Respuesta 179": "",
+                "Respuesta 180": "",
+                "Respuesta 181": ""
+            }
+        }
+    },
+    "CARACTERISTICAS DE LA POBLACIÓN": {
+        "PERSONA 1": {
+            "Respuesta 182": "",
+            "Respuesta 183": "",
+            "Respuesta GENERO": {
+                "Respuesta 184": "",
+                "Respuesta 185": ""
+            },
+            "Respuesta 186": "",
+            "Respuesta 187": "",
+            "Respuesta 188": "",
+            "Respuesta 189": ""
+        },
+        "PERSONA 2": {
+            "Respuesta 190": "",
+            "Respuesta 191": "",
+            "Respuesta GENERO": {
+                "Respuesta 192": "",
+                "Respuesta 193": ""
+            },
+            "Respuesta 194": "",
+            "Respuesta 195": "",
+            "Respuesta 196": "",
+            "Respuesta 197": ""
+        },
+        "PERSONA 3": {
+            "Respuesta 198": "",
+            "Respuesta 199": "",
+            "Respuesta GENERO": {
+                "Respuesta 200": "",
+                "Respuesta 201": ""
+            },
+            "Respuesta 202": "",
+            "Respuesta 203": "",
+            "Respuesta 204": "",
+            "Respuesta 205": ""
+        },
+        "PERSONA 4": {
+            "Respuesta 206": "",
+            "Respuesta 207": "",
+            "Respuesta GENERO": {
+                "Respuesta 208": "",
+                "Respuesta 209": ""
+            },
+            "Respuesta 210": "",
+            "Respuesta 211": "",
+            "Respuesta 212": "",
+            "Respuesta 213": ""
+        },
+        "PERSONA 5": {
+            "Respuesta 214": "",
+            "Respuesta 215": "",
+            "Respuesta GENERO": {
+                "Respuesta 216": "",
+                "Respuesta 217": ""
+            },
+            "Respuesta 218": "",
+            "Respuesta 219": "",
+            "Respuesta 220": "",
+            "Respuesta 221": ""
+        },
+        "PARTICIPACIÓN COMUNITARIA (ámbitos de participación comunitaria interactuan los habitantes y/o dueños del predio)": {
+            "Respuesta Juntas de padres de familia": {
+                "Respuesta 222": "",
+                "Respuesta 223": ""
+            },
+            "Respuesta Junta de Acción Comunal - JAC": {
+                "Respuesta 224": "",
+                "Respuesta 225": ""
+            },
+            "Respuesta Asociación de desempleados": {
+                "Respuesta 226": "",
+                "Respuesta 227": ""
+            },
+            "Respuesta 228": "",
+            "Respuesta 229": ""
+        }
+    },
+    "USOS DEL SUELO": {
+        "ÁREA PREDIO": {
+            "Respuesta 230": "",
+            "Respuesta 231": ""
+        },
+        "Respuesta 232": "",
+        "USOS DEL SUELO": {
+            "Respuesta 233": "",
+            "Respuesta 234": "",
+            "Respuesta 235": "",
+            "Respuesta 236": "",
+            "Respuesta 237": ""
+        },
+        "Actividades Complementarias (otras actividades que contribuyen al mejoramiento de la economía de la familia)": {
+            "Respuesta 238": "",
+            "Respuesta 239": "",
+            "Respuesta 240": "",
+            "Respuesta 241": ""
+        }
+    },
+    "Imagen 1": "",
+    "Pregunta 242": ""
+}
