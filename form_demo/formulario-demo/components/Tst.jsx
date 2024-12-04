@@ -76,7 +76,7 @@ export default function Tst () {
                 }
                 parsedQuestions = parsedQuestions.concat(parseQuestions(value, level + 1)) // Verifica niveles jerarquicos
                 // }
-            } else if (key.includes('Pregunta') && !value.includes('_radiobutton')) { // Logica para manejar preguntas abiertas
+            } else if (key.includes('Pregunta') && !value.includes('_radiobutton') && !value.includes('_date')) { // Logica para manejar preguntas abiertas
                 parsedQuestions.push({
                     id: `${key}-${globalIndex++}`, // Clave única para cada pregunta
                     ask: `question-${questionNumber}`,
@@ -210,7 +210,7 @@ export default function Tst () {
         <div className="min-h-screen bg-slate-900 p-4 md:p-6 lg:p-8">
             <div className="mx-auto max-w-3xl bg-slate-800 text-slate-100 shadow-xl rounded-lg overflow-hidden">
                 <div className="text-center space-y-1">
-                    <img src="/img/logo/logo.png" alt="logo" className="h-16 m-auto my-[1.5em]"/>
+                    <img src="/img/logo/log-op.png" alt="logo" className="h-16 m-auto my-[1.5em]"/>
                     <h1 className="text-2xl md:text-3xl font-bold bg-gradient-to-r from-[#FFD700] to-[#90EE90] bg-clip-text text-transparent">
                     	Información Socio-Económica y Cultural
                     </h1>

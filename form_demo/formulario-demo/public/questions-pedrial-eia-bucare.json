@@ -95,16 +95,16 @@
     "SERVICIOS PÚBLICOS": {
         "¿EL PREDIO TIENE CONTADOR DE ENERGÍA?" : {
             "Pregunta 60": "SI_radiobutton",
-            "Pregunta 61": "NO_radiobutton",
-            "Pregunta 62": "OTRO ¿CUÁL?"
+            "Pregunta 61": "NO_radiobutton"
         },
+        "Pregunta 62": "OTRO ¿CUÁL?",
         "COCINA" : {
             "Pregunta 63": "GAS_radiobutton",
             "Pregunta 64": "LEÑA_radiobutton",
             "Pregunta 65": "VELAS_radiobutton",
-            "Pregunta 66": "GASOLINA_radiobutton",
-            "Pregunta 67": "OTRO ¿CUÁL?"
+            "Pregunta 66": "GASOLINA_radiobutton"
         },
+        "Pregunta 67": "OTRO ¿CUÁL?",
         "Pregunta_ACUEDUCTO" : {
             "Pregunta 68": "SI_radiobutton",
             "Pregunta 69": "NO_radiobutton"
@@ -261,9 +261,9 @@
             "Pregunta 141": "ARRENDATARIOS_radiobutton",
             "Pregunta 142": "POSEEDORES_radiobutton",
             "Pregunta 143": "APERCEROS_radiobutton",
-            "Pregunta 144": "ADMINISTRADORES_radiobutton",
-            "Pregunta 145": "OTROS"
+            "Pregunta 144": "ADMINISTRADORES_radiobutton"
         },
+        "Pregunta 145": "OTROS",
         "Pregunta 146": "Distancia a fuente hídrica de abastecimiento (metros)",
         "Pregunta 147": "Localizada en",
         "ACTIVIDADES ECONOMICAS PRINCIPALES": {
