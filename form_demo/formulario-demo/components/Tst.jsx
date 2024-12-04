@@ -186,7 +186,8 @@ export default function Tst () {
                 iterateKeysRecursively(dataToExport)
 
                 // SE DEBE IR AQUI PARA LA BASE DE DATOS
-
+                const date = new Date()
+                updatedData['DATOS GENERALES']['Respuesta 1'] = date.getDate() + '-' + (date.getMonth() + 1) + '-' + date.getFullYear()
                 // Crear un blob para la exportación de la copia actualizada
                 const blob = new Blob([JSON.stringify(updatedData, null, 2)], {
                     type: 'application/json'
@@ -217,6 +218,7 @@ export default function Tst () {
                     <p className="text-slate-400">
                     	Por favor complete todos los campos del formulario
                     </p>
+                    <p className="text-right pt-8 pr-5">{new Date().toLocaleString('es-ES', { dateStyle: 'full' })}</p>
                 </div>
                 <div className="h-1 width-full bg-slate-700 rounded-lg mx-[1em] mt-[1em]"></div>
                 <div className="p-6">
