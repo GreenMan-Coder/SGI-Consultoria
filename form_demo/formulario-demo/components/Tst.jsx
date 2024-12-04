@@ -210,7 +210,7 @@ export default function Tst () {
         <div className="min-h-screen bg-slate-900 p-4 md:p-6 lg:p-8">
             <div className="mx-auto max-w-3xl bg-slate-800 text-slate-100 shadow-xl rounded-lg overflow-hidden">
                 <div className="text-center space-y-1">
-                    <img src="/img/logo/logo.png" alt="logo" className="h-16 m-auto mb-[1em]"/>
+                    <img src="/img/logo/logo.png" alt="logo" className="h-16 m-auto my-[1.5em]"/>
                     <h1 className="text-2xl md:text-3xl font-bold bg-gradient-to-r from-[#FFD700] to-[#90EE90] bg-clip-text text-transparent">
                     	Información Socio-Económica y Cultural
                     </h1>
@@ -224,14 +224,14 @@ export default function Tst () {
                         {currentQuestions.map((question, index) => {
                             if (question.type === 'subtitle') {
                                 return (
-                                    <h2 key={question.id} className="font-semibold text-lg mb-4 text-slate-200">{question.text}</h2>
+                                    <h2 key={question.id} className="text-lg font-semibold text-[#90EE90]">{question.text}</h2>
                                 )
                             }
                             if (question.type === 'radiobutton_group') {
                                 return (
                                     <div key={question.id} className="mb-4">
-                                        <label className="block text-lg font-semibold text-gray-700 mb-2">{question.label}</label>
-                                        <div className="flex gap-2 items-center">
+                                        <label className="block text-lg text-white mb-2">{question.label}</label>
+                                        <div className="flex gap-5 items-center">
                                             {question.options.map((option, idx) => (
                                                 <label key={`${question.id}-${idx}`} className="inline-flex items-center">
                                                     <input type="radio" name={question.id} value={option} onChange={() => handleRadioChange(question.ask, option)} className="form-radio h-4 w-4 "/>
@@ -244,7 +244,7 @@ export default function Tst () {
                             }
                             return (
                                 <div key={question.id} className="mb-4">
-                                    <label htmlFor={question.id} className="block text-lg font-semibold text-gray-700">
+                                    <label htmlFor={question.id} className="block text-lg font-normal text-white">
                                         {question.label}
                                     </label>
                                     <input
@@ -252,17 +252,17 @@ export default function Tst () {
                                         name={question.id}
                                         type="text"
                                         value={formData[question.id] || ''} onChange={handleChange} placeholder={'Ingresa tu respuesta'}
-                                        className="w-full px-3 py-2 bg-slate-700 border border-slate-600 rounded-md text-slate-100 placeholder-slate-400"
+                                        className="w-full mt-3 px-3 py-2 bg-transparent border border-slate-600 rounded-md text-slate-100 placeholder-slate-400"
                                     />
                                 </div>
                             )
                         })}
-                        <div className="flex justify-between">
+                        <div className="flex justify-between items-center">
                             {currentPage > 0 && (
                                 <button
                                     type="button"
                                     onClick={handlePrevious}
-                                    className="px-3 py-2 text-left font-normal bg-slate-700 font-semibold border border-slate-600 rounded-md shadow-md text-slate-100 hover:bg-slate-600 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2"
+                                    className="px-3 py-2 text-left font-normal  font-semibold border border-slate-600 rounded-md shadow-md text-slate-100 hover:bg-slate-600 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2"
                                 >
                                   Anterior
                                 </button>
@@ -272,7 +272,7 @@ export default function Tst () {
                                 <button
                                     type="button"
                                     onClick={handleNext}
-                                    className="px-4 py-2 bg-slate-700 text-slate-100 border border-slate-600 rounded-md hover:bg-slate-600 focus:outline-none focus:ring-2 focus:ring-offset-2"
+                                    className="px-3 py-2 text-slate-100 border border-slate-600 rounded-md hover:bg-slate-600 focus:outline-none focus:ring-2 focus:ring-offset-2"
                                 >
                                   Siguiente
                                 </button>
@@ -286,11 +286,11 @@ export default function Tst () {
                                   Enviar
                                 </button>
                             )}
-                            <div className="mt-6 text-right">
+                            <div className="text-right">
                                 <button
                                     type="button"
                                     onClick={exportToJson}
-                                    className="py-3 px-4 bg-indigo-600 text-white font-semibold rounded-md shadow-md hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+                                    className="py-3 px-4 bg-gradient-to-r from-[#FFD700] to-[#90EE90] text-black font-medium rounded-md shadow-md hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
                                 >
                   					Exportar Respuestas
                                 </button>
